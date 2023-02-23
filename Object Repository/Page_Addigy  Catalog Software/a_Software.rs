@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Software</name>
+   <tag></tag>
+   <elementGuidId>ac3383e3-6c6d-45c7-bce9-d9617e59c279</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Software')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>74580cb1-6748-47de-865e-efa7c343e04e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/catalog/software</value>
+      <webElementGuid>d98ed645-ad06-42a8-a00d-9c2b56912657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Software</value>
+      <webElementGuid>16fd25aa-0acc-4da4-826b-a7a76a0f3f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page&quot;]/div[@class=&quot;is-flex is-flex-1 is-position-relative&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;has-max-width-widescreen is-flex is-flex-direction-column p-1 is-fullwidth is-relative&quot;]/div[@class=&quot;has-background-white p-r-1 p-b-4 p-l-1 is-flex-1&quot;]/div[@class=&quot;p-r-2 p-b-3 p-l-2 has-max-width-desktop&quot;]/div[@class=&quot;is-flex is-flex-wrap p-t-1 p-b-3&quot;]/div[@class=&quot;box&quot;]/h3[1]/a[1]</value>
+      <webElementGuid>949f2d4a-ec2b-43e2-98cc-f7c5dcd373b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Software')])[2]</value>
+      <webElementGuid>d4f42c60-8955-495f-8319-55b8d9aecf7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MDM Profiles'])[2]/following::a[1]</value>
+      <webElementGuid>8cbb5273-c1a2-484e-9c34-e9cac74917c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OS Users'])[1]/following::a[2]</value>
+      <webElementGuid>620b6d65-a8a3-4f32-b42d-bcb11b984da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring'])[3]/preceding::a[1]</value>
+      <webElementGuid>007fc750-d218-4d6a-aec7-f9686812354e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance'])[2]/preceding::a[2]</value>
+      <webElementGuid>de828ce9-ac1b-41c8-9a7f-e84382e89ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/catalog/software')])[2]</value>
+      <webElementGuid>38afaa67-115e-4289-a70d-80d9ebb9df42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h3/a</value>
+      <webElementGuid>0920f615-11f7-4a6e-8558-76c7a42fec25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/catalog/software' and (text() = 'Software' or . = 'Software')]</value>
+      <webElementGuid>18b54193-ae65-4a81-9298-16425dc24d35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

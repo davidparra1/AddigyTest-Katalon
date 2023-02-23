@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Maintenance</name>
+   <tag></tag>
+   <elementGuidId>edc23e01-3662-448d-85ef-f6a8de002dd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Maintenance')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3e728e9a-2076-4d79-8668-2a347c609104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/catalog/maintenance</value>
+      <webElementGuid>b3536bb6-7e64-48a3-9e6b-951d6b4c2793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maintenance</value>
+      <webElementGuid>7f392a5c-7722-40de-9129-deed8c1c8b64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page&quot;]/div[@class=&quot;is-flex is-flex-1 is-position-relative&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;has-max-width-widescreen is-flex is-flex-direction-column p-1 is-fullwidth is-relative&quot;]/div[@class=&quot;has-background-white p-r-1 p-b-4 p-l-1 is-flex-1&quot;]/div[@class=&quot;p-r-2 p-b-3 p-l-2 has-max-width-desktop&quot;]/div[@class=&quot;is-flex is-flex-wrap p-t-1 p-b-3&quot;]/div[@class=&quot;box&quot;]/h3[1]/a[1]</value>
+      <webElementGuid>dadfd87a-7ff5-4c44-a87e-5e38f3527c0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Maintenance')])[2]</value>
+      <webElementGuid>0abc43d1-d578-4ded-8f74-a5202400461e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring'])[3]/following::a[1]</value>
+      <webElementGuid>63e6094f-ce5c-4316-8b25-3e28fc872cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software'])[2]/following::a[2]</value>
+      <webElementGuid>7d22e113-212e-4c4d-83ef-4c316517ef82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Facts'])[2]/preceding::a[1]</value>
+      <webElementGuid>ebc915b1-5dbf-4b30-9e52-aea0a36fa9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self Service'])[2]/preceding::a[2]</value>
+      <webElementGuid>12af489d-2f59-41e0-a428-96e374c2a117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/catalog/maintenance')])[2]</value>
+      <webElementGuid>4df88ea5-3edd-49f0-9b2c-3d241b95b441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/h3/a</value>
+      <webElementGuid>252f14de-45a0-4c05-b77f-326742cebed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/catalog/maintenance' and (text() = 'Maintenance' or . = 'Maintenance')]</value>
+      <webElementGuid>48e8cb7d-65cc-47b9-b6b8-87cbe26161e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

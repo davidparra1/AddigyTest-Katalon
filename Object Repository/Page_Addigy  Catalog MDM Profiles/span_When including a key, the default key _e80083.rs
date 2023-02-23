@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_When including a key, the default key _e80083</name>
+   <tag></tag>
+   <elementGuidId>229f5536-fcde-4a01-9116-3ceaf98328e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.check.is-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>998ca1a6-cdb1-4937-88b9-266ea4bd853e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check is-primary</value>
+      <webElementGuid>68d6d6ff-277a-4bb3-a89a-769af10ef382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page&quot;]/div[@class=&quot;is-flex is-flex-1 is-position-relative&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;has-max-width-widescreen is-flex is-flex-direction-column p-1 is-fullwidth is-relative&quot;]/div[@class=&quot;has-background-white p-r-1 p-b-4 p-l-1 is-flex-1&quot;]/section[@class=&quot;has-max-width-desktop p-t-1 p-r-2 p-b-3 p-l-2&quot;]/div[@class=&quot;is-full-page is-overlay-page--right has-background-white p-2&quot;]/div[@class=&quot;p-2 has-max-width-desktop&quot;]/section[@class=&quot;p-b-2&quot;]/div[2]/section[1]/div[@class=&quot;is-flex&quot;]/div[@class=&quot;checkbox-column&quot;]/div[@class=&quot;field&quot;]/label[@class=&quot;b-checkbox checkbox&quot;]/span[@class=&quot;check is-primary&quot;]</value>
+      <webElementGuid>bb486b44-9d37-40aa-a5f7-959fd24dc199</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>91d46f13-612e-4087-bb78-091f9a27b437</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

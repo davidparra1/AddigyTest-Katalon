@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Monitoring</name>
+   <tag></tag>
+   <elementGuidId>9796dd11-2925-4b59-9f32-2a36bd73cd7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Monitoring')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71926a66-0b2b-4fe9-b6cb-1ea5591fadeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/catalog/monitoring/custom</value>
+      <webElementGuid>5aaab7d5-f962-417e-9ae2-bd8196892222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monitoring</value>
+      <webElementGuid>a88edab4-478e-4f39-8796-4f338884e760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page&quot;]/div[@class=&quot;is-flex is-flex-1 is-position-relative&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;has-max-width-widescreen is-flex is-flex-direction-column p-1 is-fullwidth is-relative&quot;]/div[@class=&quot;has-background-white p-r-1 p-b-4 p-l-1 is-flex-1&quot;]/div[@class=&quot;p-r-2 p-b-3 p-l-2 has-max-width-desktop&quot;]/div[@class=&quot;is-flex is-flex-wrap p-t-1 p-b-3&quot;]/div[@class=&quot;box&quot;]/h3[1]/a[1]</value>
+      <webElementGuid>fab55ec9-1a09-4a6f-8ed8-a3c26d4a9110</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Monitoring')])[2]</value>
+      <webElementGuid>5e21ba12-2958-4f66-9b26-caae6a213e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software'])[2]/following::a[1]</value>
+      <webElementGuid>6dd78bd9-be7b-4219-a54b-b39769932bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MDM Profiles'])[2]/following::a[2]</value>
+      <webElementGuid>aaef981b-3169-4b64-9dfc-bb0b13bdf433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance'])[2]/preceding::a[1]</value>
+      <webElementGuid>7a733fd2-0084-400b-b599-95e9ab1cd900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Facts'])[2]/preceding::a[2]</value>
+      <webElementGuid>b6a22105-3601-4216-b506-a12aba2da69a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/catalog/monitoring/custom')])[2]</value>
+      <webElementGuid>8529ebd5-3aef-4c5f-8e2e-383a71b9ff80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h3/a</value>
+      <webElementGuid>45754922-01f2-4213-af7a-d963a9d058ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/catalog/monitoring/custom' and (text() = 'Monitoring' or . = 'Monitoring')]</value>
+      <webElementGuid>3cc9efa2-4cb4-4ad8-8343-a1b0c0bd0ffd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

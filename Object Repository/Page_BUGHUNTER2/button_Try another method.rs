@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Try another method</name>
+   <tag></tag>
+   <elementGuidId>93c39d6e-6820-4f82-aede-4028786be609</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.c5f031ffa > button[name=&quot;action&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@name='action'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5b6c6740-c178-4a49-9bb0-8f3eb9e6bf6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>48bcc1a2-8189-4872-b595-645d8512af64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>action</value>
+      <webElementGuid>0b5641b4-a5a0-43a8-809d-7660aa37a164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>pick-authenticator</value>
+      <webElementGuid>f9dae2ff-8de1-4469-bb0d-4b9dfc8ae435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c14409e00 c29742e2d cf3e3bd09</value>
+      <webElementGuid>b79893ba-d164-4d8d-98a3-d304cd05761d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Try another method</value>
+      <webElementGuid>47a609c6-a28a-48a5-8b24-3e5ba7af2bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;c3681f759 c18791ed5&quot;]/main[@class=&quot;c1afb972a mfa-webauthn-challenge&quot;]/section[@class=&quot;c9037684a _prompt-box-outer cc5326c6c&quot;]/div[@class=&quot;c3558750d c4c4b0ced&quot;]/div[@class=&quot;c24a0321c&quot;]/div[@class=&quot;ulp-awaiting-action-outer&quot;]/div[@class=&quot;c07c62d27 c99664d50&quot;]/div[@class=&quot;ulp-alternate-action center _alternate-action&quot;]/form[@class=&quot;c5f031ffa&quot;]/button[@class=&quot;c14409e00 c29742e2d cf3e3bd09&quot;]</value>
+      <webElementGuid>262b5724-2b67-4620-8aa0-5bd72c7b1513</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@name='action'])[2]</value>
+      <webElementGuid>fad0e62e-8c56-4d72-84ee-a0bb7a5aa33d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/following::button[1]</value>
+      <webElementGuid>83d60d83-2108-4e39-b0f2-74efecdb6d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember this device for 30 days'])[1]/following::button[2]</value>
+      <webElementGuid>0b6c034a-2d1e-498a-8b45-c9cfb42c94e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Try another method']/parent::*</value>
+      <webElementGuid>e269dc77-7312-42a7-bdff-a37db5b67f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>dec95e57-41f3-4967-ba09-a08e26cdb212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'action' and (text() = 'Try another method' or . = 'Try another method')]</value>
+      <webElementGuid>7a8ca527-53cf-485b-ba22-9de790ba82e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
